@@ -39,6 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5</div>
+                <h1>Welcome to SimpleUtilities</div>
             </div>
         </div>
     </body>
